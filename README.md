@@ -3,6 +3,9 @@
 A web application built with **ASP.NET Core** that helps users **manage their personal finances** by tracking **income, expenses, and budgets**.  
 The project offers a clean, responsive interface for logging transactions, categorizing them, and analyzing spending habits.
 
+
+![Homepage Screenshot](Screenshot%202025-09-29%20025404.png)
+
 ---
 
 ## ✨ Features
